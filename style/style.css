@@ -28,7 +28,7 @@ ul {
 .logo{
     text-transform: uppercase;
     font-size: 40px;
-    color: white;
+    color: rgb(254, 3, 3);
 }
 .header__nav-list{
      display: flex;
